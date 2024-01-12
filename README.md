@@ -1,2 +1,2 @@
-# demo
-My first repository
+# My trial for github
+My first repository for github
